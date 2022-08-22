@@ -1,8 +1,8 @@
 Kenton McDaniel
 
-1.	What is application security and how does it differ from platform security? 
+1.	What is application security and how does it differ from platform security?
 
-    	This question is open to a broad interpretation and is a thought exercise to see how a candidate handles the differentiation. I consider application security to be the view of how the application is secured from the first architectural diagram and after it is deployed to a production workload. Platform security is application security but additionally making sure that the platform is configured correctly to support your security objectives for the applications and your business.
+This question is open to a broad interpretation and is a thought exercise to see how a candidate handles the differentiation. I consider application security to be the view of how the application is secured from the first architectural diagram and after it is deployed to a production workload. Platform security is application security but additionally making sure that the platform is configured correctly to support your security objectives for the applications and your business.    	
       
 2.	How do you identify weaknesses in application architecture?
 
